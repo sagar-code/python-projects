@@ -3,6 +3,8 @@ from arts_resources import MENU, resources
 profit = 0
 off_machine = False
 
+print('This is just for testing')
+
 
 # check resource sufficient
 def check_resource_sufficient(order_ingredient):
